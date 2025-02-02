@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796882966153",
+    "project_id": "service-pal-87712",
+    "storage_bucket": "service-pal-87712.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796882966153:android:bdd1fd76a3663122141858",
+        "android_client_info": {
+          "package_name": "com.example.service_pal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvtxZdaTAAUj5oUHcg6N4TlN0Am4lNum0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
